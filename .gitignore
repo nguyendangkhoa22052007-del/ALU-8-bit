@@ -1,0 +1,12 @@
+
+# Compiled simulation outputs
+sim/alu_test
+sim/*.vvp
+
+# Waveform outputs (generated files)
+sim/*.vcd
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
